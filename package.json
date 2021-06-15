@@ -4,8 +4,8 @@
     "demo": "https://editorial.ghost.io",
     "version": "2.1.1",
     "engines": {
-        "ghost": ">=3.0.0",
-        "ghost-api": "v3"
+        "ghost": ">=4.0.0",
+        "ghost-api": "v4"
     },
     "license": "MIT",
     "screenshots": {
@@ -51,7 +51,7 @@
     ],
     "devDependencies": {
         "beeper": "2.1.0",
-        "gscan": "4.0.1",
+        "gscan": "4.0.2",
         "gulp": "4.0.2",
         "gulp-livereload": "4.0.2",
         "gulp-sass": "4.1.0",
